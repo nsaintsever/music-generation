@@ -1,8 +1,8 @@
-## Generated music : Live demo (local)
+## Generated music : Live demo
 
 ---
 
-<img src="images/github-gif.gif" alt="Texte alternatif" width="700">
+<img src="images/github-gif.gif" alt="Texte alternatif" width="1200">
 
 
 ## Generated music : Audio samples
