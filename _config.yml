@@ -1,11 +1,12 @@
-title: Nicolas Saint-Sever # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: "Text-to-audio : Music Generation"  # your name (or website title) here
+logo: "/images/dance.gif?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Former investment banker (specialized in LBO financing), I'm now an aspiring Data Scientist curious about all the ML and DL fields can offer to businesses ! 
+  Using the latest state-of-the-art meta AI MusicGen model, you'll find below a few examples of audio generated from 2 parameters : a prompt description and the desired duration.
+
   <br><br>
-  I followed the 9-week intensive Data Science bootcamp at Le Wagon
+  Developped locally and presented on a local streamlit web-app available on my repo.
   <br><br>
-  <a href="https://www.linkedin.com/in/nicolas-saint-sever-b0877048/">View My LinkedIn Profile</a> 
-  
+  <a href="https://nsaintsever.github.io/">View My LinkedIn Profile</a>
+
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
