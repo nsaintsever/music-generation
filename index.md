@@ -2,7 +2,7 @@
 
 ---
 
-![Can't load live demo.]<img src="images/github-gif.gif" alt="Texte alternatif" width="400">
+<img src="images/github-gif.gif" alt="Texte alternatif" width="700">
 
 
 ## Generated music : Audio samples
