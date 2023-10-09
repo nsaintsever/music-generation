@@ -3,12 +3,13 @@ logo: "/images/dance.gif?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
 
-  Using the latest state-of-the-art meta AI MusicGen model, you'll find below a few examples of audio generated from 2 parameters : a prompt description and the desired duration.
+  Using the latest state-of-the-art meta AI MusicGen model, you'll find opposite a few examples of audio generated from 2 parameters : a prompt description and the desired duration.
 
   <br><br>
-  Developped locally and presented on a local streamlit web-app available on my repo.
+  I developped this model and web app (streamlit) locally. The full code is available on my Github repo.
   <br><br>
   <a href="https://www.linkedin.com/in/nicolas-saint-sever-b0877048/">View My LinkedIn Profile</a>
+  <br><br>
   <a href="https://nsaintsever.github.io/">View My Github Profile</a>
 
 theme: jekyll-theme-minimal

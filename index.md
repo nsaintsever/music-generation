@@ -6,6 +6,8 @@
   <img src="images/github-gif.gif" alt="Can't load Live demo" width=1000>
 </div>
 
+<br>
+
 ## Generated music : Audio samples
 
 ---
