@@ -2,8 +2,9 @@
 
 ---
 
-<img src="images/github-gif.gif" alt="Texte alternatif" width="1200">
-
+<div style="text-align: center;">
+  <img src="images/github-gif.gif" alt="Can't load Live demo" width=1000>
+</div>
 
 ## Generated music : Audio samples
 
