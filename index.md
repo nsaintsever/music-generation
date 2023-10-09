@@ -1,3 +1,9 @@
+## Generated music : Live demo (local)
+
+---
+
+![Can't load live demo.](images/github-gif.gif)
+
 ## Generated music : Audio samples
 
 ---
