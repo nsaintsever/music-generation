@@ -16,10 +16,10 @@
   <tr>
     <td>
       <audio controls>
-        <source src="https://raw.githubusercontent.com/nsaintsever/music-generation/main/audio_output/1990s%20pop%20music%20with%2090s%20west%20coast%20hip-hop.wav" type="audio/mpeg">
+        <source src="https://github.com/nsaintsever/music-generation/blob/main/audio_output/1960s%20pop%20song%20with%20a%20deep%20hip-hop%20beat.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <p><strong>Prompt</strong>: 1990s pop music with 90s west coast hip-hop</p>
+      <p><strong>Prompt</strong>: 1960s pop song with a deep hip-hop beat</p>
     </td>
     <td>
       <audio controls>
