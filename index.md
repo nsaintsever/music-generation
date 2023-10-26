@@ -122,14 +122,3 @@
     </div>
   </div>
 </div>
-
-
-## Generated music : Live demo
-
----
-
-<div style="text-align: center;">
-  <img src="images/github-gif.gif" alt="Can't load Live demo" width=1000>
-</div>
-
-<br>
