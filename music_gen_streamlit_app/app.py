@@ -6,13 +6,11 @@ import os
 import numpy as np
 import base64
 
-@st.cache_resource()
 def load_model():
-    model = MusicGen.get_pretrained('facebook/musicgen-small')
+    model = MusicGen.get_pretrained('facebook/musicgen-large')
     return model
 
 
-@st.cache_resource()
 def generate_music_tensors(description, duration: int):
     model = load_model()
 

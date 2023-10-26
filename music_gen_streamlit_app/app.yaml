@@ -1,0 +1,14 @@
+runtime: python39
+entrypoint: streamlit run app.py
+
+env_variables:
+  BUCKET_NAME: music-gen-bucket
+
+
+manual_scaling:
+  instances: 10
+
+resources:
+  cpu: 4
+  memory_gb: 8
+  disk_size_gb: 32
