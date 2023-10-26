@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
   <body>
     <div class="container pt-5 mt-5 shadow p-5 mb-5 bg-white rounded">
       <div class="text-center">
