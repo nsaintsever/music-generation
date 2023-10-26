@@ -62,55 +62,55 @@
         </thead>
         <tbody>
           <tr>
-            <td>Text prompt 1</td>
+            <td>1960s pop song with a deep hip-hop beat</td>
             <td>
               <audio controls>
-                <source src="lien_audio_1.mp3" type="audio/mpeg">
+                <source src="audio_output/1960s pop song with a deep hip-hop beat.wav" type="audio/mpeg">
                 Votre navigateur ne supporte pas l'élément audio.
               </audio>
             </td>
           </tr>
           <tr>
-            <td>Text prompt 2</td>
+            <td>1990s hip hop beat with saxophone</td>
             <td>
               <audio controls>
-                <source src="lien_audio_2.mp3" type="audio/mpeg">
+                <source src="audio_output/1990s hip hop beat with saxophone.wav" type="audio/mpeg">
                 Votre navigateur ne supporte pas l'élément audio.
               </audio>
             </td>
           </tr>
           <tr>
-            <td>Text prompt 3</td>
+            <td>2000s pop music with disco vibes</td>
             <td>
               <audio controls>
-                <source src="lien_audio_3.mp3" type="audio/mpeg">
+                <source src="audio_output/2000s pop music with disco vibes.wav" type="audio/mpeg">
                 Votre navigateur ne supporte pas l'élément audio.
               </audio>
             </td>
           </tr>
           <tr>
-            <td>Text prompt 4</td>
+            <td>Rock music for sport</td>
             <td>
               <audio controls>
-                <source src="lien_audio_4.mp3" type="audio/mpeg">
+                <source src="audio_output/Rock music for sport (large model).wav" type="audio/mpeg">
                 Votre navigateur ne supporte pas l'élément audio.
               </audio>
             </td>
           </tr>
           <tr>
-            <td>Text prompt 5</td>
+            <td>A jazzy version of Mozart</td>
             <td>
               <audio controls>
-                <source src="lien_audio_5.mp3" type="audio/mpeg">
+                <source src="audio_output/A jazzy version of Mozart.wav" type="audio/mpeg">
                 Votre navigateur ne supporte pas l'élément audio.
               </audio>
             </td>
           </tr>
           <tr>
-            <td>Text prompt 6</td>
+            <td>futuristic song with choirs</td>
             <td>
               <audio controls>
-                <source src="lien_audio_6.mp3" type="audio/mpeg">
+                <source src="audio_output/futuristic song with choirs.wav" type="audio/mpeg">
                 Votre navigateur ne supporte pas l'élément audio.
               </audio>
             </td>
