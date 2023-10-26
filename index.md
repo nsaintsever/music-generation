@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title>Music Generation with Meta AI's MusicGen</title>
@@ -45,7 +44,6 @@
         <p>Personnal project</p>
       </div>
       <p>
-        <b>Abstract</b>
         Text to Music Generation App built using Meta's Audiocraft library (MusicGen model). It is a Streamlit application utilises Music Gen small model.
         You'll find below a few extracts of generated music through a text prompt.
         You'll also find a live demonstration of the streamlit app as I've only used this web-app locally.
