@@ -1,4 +1,33 @@
+<!DOCTYPE html>
 <html>
+  <head>
+    <title>Music Generation with Meta AI's MusicGen</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="helper-v2.js" defer></script>
+    <style>
+      td {
+        vertical-align: middle;
+      }
+      audio {
+        width: 20vw;
+        min-width: 100px;
+        max-width: 250px;
+      }
+      .timestamp-label {
+        color: gray;
+      }
+      table.wide-audio audio {
+        width: 40vw;
+        max-width: 40vw;
+      }
+    </style>
+  </head>
   <body>
     <div class="container pt-5 mt-5 shadow p-5 mb-5 bg-white rounded">
       <div class="text-center">
@@ -96,3 +125,4 @@
   <div class="container pt-3">
       <div class="table-responsive pt-3">
         <img src="images/github-gif.gif" alt="Can't load live demo">
+</html>
