@@ -120,3 +120,6 @@
     </div>
   </div>
 </div>
+<h3>Live demonstration</h3>
+  <div class="container pt-3">
+  <img src="images/github-gif.gif" alt="Can't load live demo">
